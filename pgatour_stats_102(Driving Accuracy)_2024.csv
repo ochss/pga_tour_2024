@@ -1,4 +1,4 @@
-RANK,PLAYER,%,FAIRWAYS HIT,POSSIBLE FAIRWAYS,Tournament
+rank,player,percent_fairways,fairways_hit,possible_fairways,tournament
 1,Brian Harman,85.71%,48,56,The RSM Classic
 1,Carson Young,85.71%,48,56,The RSM Classic
 3,Luke Clanton,83.93%,47,56,The RSM Classic

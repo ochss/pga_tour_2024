@@ -1,4 +1,4 @@
-RANK,PLAYER,AVG,TOTAL SG:T,TOTAL SG:T2G,TOTAL SG:P,MEASURED ROUNDS,Tournament
+rank,player,avg,total_sg_t,total_sg_t2g,total_sg_p,measured_rounds,tournament
 1,Maverick McNealy,3.516,10.548,6.859,3.689,3,The RSM Classic
 2,J.T. Poston,3.183,9.548,8.505,1.043,3,The RSM Classic
 3,Mackenzie Hughes,3.172,9.517,2.934,6.583,3,The RSM Classic
